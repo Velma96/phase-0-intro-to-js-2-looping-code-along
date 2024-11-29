@@ -2,7 +2,7 @@ require ( './helpers.js' );
 
 const sinon = require( 'sinon' )
 
-describe( 'index.js', () => {
+describe( '.indexjs', () => {
   let spy;
 
   beforeEach( () => {
